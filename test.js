@@ -1,3 +1,3 @@
-function main() {}
+function test() {}
 
-main();
+test();
